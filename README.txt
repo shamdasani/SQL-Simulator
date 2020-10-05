@@ -1,4 +1,4 @@
-# SQL-Simulator
+#SQL-Simulator
 This program uses maps, hashes, and BSTs to simulate a basic SQL query
 
 # Usage
@@ -10,7 +10,7 @@ $ ./silly [--quiet] [--help]
 
 --help - prints possible command line arguments
 
-# Objective
+#Objective
 The terminal will present you with a "%" which is the program's command line. Entering the following commands with their respective parameters:
 
 %CREATE <tablename> <N> <coltype1> <coltype2> ... <coltypeN> <colname1> <colname2> ... <colnameN>
